@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1869e9f3921a741468c29206050cba45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthyMesh: {instanceID: 0}
+  - healthyMat: {fileID: 2100000, guid: 2e9db668f37fca24d9d3f5fec1123fa2, type: 2}
+  - dmgMesh: {instanceID: 0}
+  - dmgMat: {fileID: 2100000, guid: f96983db1c8d81d4bbc5a667bbd8283c, type: 2}
+  - wreckMesh: {instanceID: 0}
+  - wreckMat: {fileID: 2100000, guid: 4d10a73d8f110da438c5b02b28fc52d2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

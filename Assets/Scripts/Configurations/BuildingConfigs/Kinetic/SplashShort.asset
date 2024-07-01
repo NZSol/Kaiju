@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1869e9f3921a741468c29206050cba45, type: 3}
+  m_Name: SplashShort
+  m_EditorClassIdentifier: 
+  healthyMesh: {fileID: 794436852534039936, guid: 3087e4541e96e2548853cee61a008f15, type: 3}
+  healthyMat: {fileID: 2100000, guid: 2e9db668f37fca24d9d3f5fec1123fa2, type: 2}
+  dmgMesh: {fileID: 5612851193929006995, guid: 76da2f880eea7a448b058b6806bbc17b, type: 3}
+  dmgMat: {fileID: 2100000, guid: f96983db1c8d81d4bbc5a667bbd8283c, type: 2}
+  wreckMesh: {fileID: 5565474644855267833, guid: 5e84499adc1e4d5438431389f45139ac, type: 3}
+  wreckMat: {fileID: 2100000, guid: 4d10a73d8f110da438c5b02b28fc52d2, type: 2}
+  element: 0
+  distribution: 1
+  proximity: 0
